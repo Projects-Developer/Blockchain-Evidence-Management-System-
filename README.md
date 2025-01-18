@@ -1,4 +1,4 @@
-# Blockchain-Evidence-Management-System-
+# Blockchain Evidence Management System
 The Blockchain Evidence Management System with Code, Documents and video tutorial
 
 ![Evidence management](https://github.com/user-attachments/assets/67a80710-6fa2-419a-98ae-2ccb944d4496)
